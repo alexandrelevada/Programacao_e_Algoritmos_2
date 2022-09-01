@@ -22,16 +22,8 @@ Aula 8 – Grafos: Fundamentos básicos
 
 Aula 9 - Random walks e o algoritmo Pagerank
 
-Aula 10 - Busca em grafos (BFS e DFS)
+Aula 10 - Busca em grafos (Busca em Largura e Profundidade)
 
-    Busca em Largura (Breadth-First Search – BFS)
+Aula 11 – Grafos: O problema da árvore geradora mínima (Kruskal e Prim)
 
-    Busca em Profundidade (Depth-First Search – DFS)
-
-Aula 11 – Grafos: O problema da árvore geradora mínima
-
-    Algoritmo de Kruskal
-
-    Algoritmo de Prim
-
-Aula 12 – Grafos: Caminhos mínimos e o algoritmo de Dijkstra
+Aula 12 – Grafos: Caminhos mínimos em grafos (algoritmo de Dijkstra)
