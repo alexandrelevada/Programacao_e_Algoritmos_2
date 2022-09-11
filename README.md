@@ -1,5 +1,5 @@
 # Programacao e Algoritmos 2
-Materiais e aulas da disciplina Programação e Algoritmos II
+Materiais e aulas da disciplina Programação e Algoritmos II oferecida pelo Departamento de Computação da Universidade Federal de São Carlos ao curso de Estatística.
 
 EMENTA
 -------
