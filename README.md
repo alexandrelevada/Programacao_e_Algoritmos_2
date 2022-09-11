@@ -20,10 +20,10 @@ Aula 7 – Árvores binárias
 
 Aula 8 – Grafos: Fundamentos básicos
 
-Aula 9 - Random walks e o algoritmo Pagerank
+Aula 9 - Busca em grafos (Busca em Largura e Profundidade)
 
-Aula 10 - Busca em grafos (Busca em Largura e Profundidade)
+Aula 10 – Grafos: O problema da árvore geradora mínima (Kruskal e Prim)
 
-Aula 11 – Grafos: O problema da árvore geradora mínima (Kruskal e Prim)
+Aula 11 – Grafos: Caminhos mínimos em grafos (algoritmo de Dijkstra)
 
-Aula 12 – Grafos: Caminhos mínimos em grafos (algoritmo de Dijkstra)
+Aula 12 - Random walks e o algoritmo Pagerank
